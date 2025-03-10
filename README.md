@@ -1,5 +1,7 @@
 Todo List Application với React
 
+link drive: https://drive.google.com/drive/folders/11zwqEtHzlcjsh8-mkVrGCaz9g3iVpA9y
+
 Giới thiệu: Đây là một ứng dụng Todo List đơn giản được xây dựng bằng React. Ứng dụng hỗ trợ các thao tác cơ bản như thêm, sửa, xóa, đánh dấu hoàn thành và cung cấp trải nghiệm tốt với thiết kế hiện đại, responsive. Dự án cũng bao gồm các bài kiểm thử bằng Jest và React Testing Library để đảm bảo tính chính xác và ổn định. CÔNG NGHỆ SỬ DỤNG" React: Xây dựng giao diện người dùng. Jest & React Testing Library: Viết unit test và kiểm thử UI. Tailwind CSS: Tạo giao diện hiện đại, dễ tùy chỉnh. shadcn/ui: Hiển thị alert thông báo. Lucide React: Cung cấp icon cho ứng dụng.
 
 CÀI ĐẶT VÀ CHẠY ỨNG DỤNG: Clone repository git clone repository-https://github.com/CaoNguyenHoaiNam/SE1841_Group3_Lab3.git Cài đặt dependencies npm install Chạy ứng dụng npm run dev CÁC CHỨC NĂNG CHÍNH:
